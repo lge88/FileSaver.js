@@ -1,0 +1,10 @@
+{
+  "name": "FileSaver.js",
+  "repo": "lge88/FileSaver.js",
+  "description": "Html5 save file to local",
+  "upstream": "git://github.com/eligrey/FileSaver.js.git",
+  "scripts": [
+    "FileSaver.js"
+  ],
+  "main": "FileSaver.js"
+}
